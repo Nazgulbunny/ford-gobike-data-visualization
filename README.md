@@ -7,7 +7,7 @@ Exploratory and explanatory data visualization project using Ford GoBike trip da
 This project is divided into two parts:
 
 - Part I: Exploratory data analysis
-- Part II: Explanatory data visualization presentation
+- Part II: Explanatory data visualisation presentation
 
 ## Key Findings
 
@@ -31,3 +31,12 @@ This project is divided into two parts:
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
+
+## Repository
+
+This project was completed as part of the Udacity Data Analyst Nanodegree.
+
+## Interactive Notebook Exports
+
+- Part I (Exploratory Analysis): Part_I_notebook.html
+- Part II (Explanatory Presentation): Part_II_notebook.html
